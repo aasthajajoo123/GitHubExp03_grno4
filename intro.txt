@@ -1,1 +1,1 @@
-print("Aastha Jajoo") 
+Aastha Jajoo
